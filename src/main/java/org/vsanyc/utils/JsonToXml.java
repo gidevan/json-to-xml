@@ -36,7 +36,7 @@ public class JsonToXml {
         BufferedReader in = new BufferedReader(
                 new InputStreamReader(
                         //new FileInputStream(file), "UTF8"));
-                        new FileInputStream(file), "cp1251"));
+                        new FileInputStream(file), "windows-1251"));
 
         String str;
         StringBuilder sb = new StringBuilder();
@@ -49,8 +49,9 @@ public class JsonToXml {
     }
 
     private static void saveXml(String text) {
-        try (Writer out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(OUT), "cp1251"));) {
-            out.write(text);
+        try (Writer out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(OUT), "windows-1251"));) {
+            String s = new String(text.getBytes("UTF-8"),"cp1251");
+            out.write(s);
             out.close();
         } catch (IOException e) {
         }
