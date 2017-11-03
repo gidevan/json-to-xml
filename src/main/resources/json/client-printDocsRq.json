@@ -1,0 +1,117 @@
+{
+  "personFullName": "Денис Коваленко",
+  "reportContent": {
+    "reportTypeSource": "XML",
+    "reportData": {
+      "bcpOPPContAccRel" : {
+        "bpsBRTDateAggr": "10/19/2017",
+        "name": "369-61487/17",
+        "firstName": "Денис",
+        "lastName": "Коваленко",
+        "middleName": "Викторович",
+        "birthDate": "08/06/1981",
+        "relatedPartyDisplayName": "Коваленко Денис Викторович",
+        "socialSecurityNumber": "3060881E037PB2",
+        "bpsCitizenship": "Беларусь",
+        "longResidenceFullYear": "12",
+        "maritalStatus": "Женат/Замужем",
+        "bpsHousingDescr": "Собственная квартира/дом",
+        "educationalBackground": "Высшее",
+        "militaryObligationsDescr": "отсрочка",
+        "endDateDeferment": "04/04/2017",
+        "changeLastFistName": "N",
+        "lengthOfStray": "12",
+        "relationshipType": "Заявитель",
+        "mf": "M",
+        "bcpDependentsNumber": "0",
+        "bcpDeclaredAverageIncomeSixMonths": "4581.73",
+        "bcpAverageCostSixMonths": "0",
+        "category": "Паспорт РБ",
+        "bcpConsentNumberISS": "3060881E037PB2/19102017",
+        "pubContactCredential": {
+          "category":  "Паспорт РБ",
+          "bpsIssueAuthority": "ФРУНЗЕНСКИМ РУВД Г. МИНСКА",
+          "number": "MP3333782",
+          "issueDate": "07/17/2013",
+          "expiryDate": "07/17/2023",
+          "status": "Активно",
+          "bpsActiveFlag": "Y"
+        },
+        "communicationAddress":{
+          "mediumType": "Email",
+          "address": "4444@fff.com",
+          "useType": "Личный e-mail",
+          "bpsActiveFlag": "Y"
+        },
+        "pharmaAddressInterTable":{
+          "bpsAddressName": "Беларусь, г Речица, микрорайон, 5-ЫЙ, д. 2, 39, ",
+          "bpsCountryName": "Беларусь",
+          "bpsSoatoCode": "3245501000",
+          "bpsArea": "Речицкий",
+          "bpsCounty": "Гомельская",
+          "bpsCityType": "г",
+          "bpsCity": "Речица",
+          "bpsStreetAddressType": "5",
+          "bpsStreetAddress": "5-ЫЙ",
+          "bpsHouse": "2",
+          "bpsApartmentNumber": "39",
+          "typeForPerson": "Регистрация по месту прожив.",
+          "activeFlag": "Y",
+          "type": "Регистрация по месту прожив."
+        },
+        "bpsJobAccountPartyRelationshipTo":{
+          "employeeCategory": "Контракт",
+          "relatedPartyName": "ООО &quot;СБЕРБАНК-ТЕХНОЛОГИИ&quot;",
+          "bcpWorkAreaDescr": "IT/телекоммуникация",
+          "bcpEmployeesNumberDescr": "свыше 100 человек",
+          "bcpWorkLengthDescr": "от 3 до 5 лет",
+          "position": "Главный инженер по сопровождению",
+          "positionType": "Высококвалифицированный специалист",
+          "bpsDUNSNumber": "191690785",
+          "bpsAddressName": "Беларусь, г Минск, улица, Вваыкп, д. 23, ",
+          "bpsBuhgPhone": "375172022387",
+          "bpsKadrPhone": "375172022388",
+          "bpsMainPhoneNumber": "375296949282",
+          "bpsJobType": "Основной"
+        },
+        "bpoOpportunity": {
+          "bpoDateAggr": "10/19/2017"
+        },
+        "bpoIntegrationParticipants": {
+          "bpoSpouseLastName": "Киценко",
+          "bpoSpouseFirstName": "Мария",
+          "bpoSpouseMidName": "Вячеславовна",
+          "bpoSpouseChangeNameFlg": "N",
+          "bcpSpouseDependent": "N"
+        },
+        "bpoOpportunityProduct": {
+          "bcpPerchentScheme": "СР+",
+          "bcpConstantComponentInterestRate": "14",
+          "bcpEndOfCredit": "10/31/2020",
+          "bcpTotalPercentRate": "28"
+        },
+        "activeDocument": {
+          "category": "Паспорт РБ",
+          "bpsIssueAuthority": "ФРУНЗЕНСКИМ РУВД Г. МИНСКА",
+          "number": "MP3333782",
+          "issueDate": "07/17/2013",
+          "expiryDate": "07/17/2023",
+          "status": "Активно",
+          "bpsActiveFlag": "Y"
+        },
+        "bcpEnsuringDetailBC": {
+          "bcpEnsuringKind": "Неустойка"
+        }
+      },
+      "opportunityProduct":{
+        "bcpCreditTerm": "36",
+        "bcpPerchentScheme": "СР+",
+        "bcpConstantComponentInterestRate": "14",
+        "bcpEndOfCredit": "10/31/2020",
+        "bcpTotalPercentRate": "28",
+        "bcpCreditGoal": "400206",
+        "productDescription": "Grace. Кредитная карта  &quot;НаСТОящая кредитка&quot; (36 месяцев, иное)"
+      }
+    }
+  }
+}
